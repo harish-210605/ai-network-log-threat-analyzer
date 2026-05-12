@@ -1,9 +1,10 @@
-# 🛡️ AI Network & Log Threat Analyzer
+=# 🛡️ AI Network & Log Threat Analyzer
 An AI-powered cybersecurity tool that detects threats in server logs and network packet captures using Google Gemini AI.
 
 ## 📸 Screenshots
 ### Upload Page
-<img width="1200" alt="Upload Page" src="PASTE_LINK_1_HERE" />
+<img width="2545" height="1396" alt="Image" src="https://github.com/user-attachments/assets/7b28aac4-e551-4e09-bd9c-1bbf16a03e4c" />
+<img width="2537" height="1383" alt="Image" src="https://github.com/user-attachments/assets/74478b64-5159-4e74-b151-e6105cb15c9d" />
 
 ### Log Analyzer Dashboard
 <img width="1200" alt="Dashboard" src="PASTE_LINK_2_HERE" />
