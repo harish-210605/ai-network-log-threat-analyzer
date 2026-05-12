@@ -6,3 +6,5 @@ build/
 __pycache__/
 *.pcap
 *.cap
+frontend/node_modules/
+frontend/build/
