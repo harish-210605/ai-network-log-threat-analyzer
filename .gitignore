@@ -1,0 +1,8 @@
+backend/venv/
+backend/.env
+node_modules/
+build/
+*.pyc
+__pycache__/
+*.pcap
+*.cap
