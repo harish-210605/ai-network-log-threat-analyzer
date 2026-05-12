@@ -7,10 +7,13 @@ An AI-powered cybersecurity tool that detects threats in server logs and network
 <img width="2537" height="1383" alt="Image" src="https://github.com/user-attachments/assets/74478b64-5159-4e74-b151-e6105cb15c9d" />
 
 ### Log Analyzer Dashboard
-<img width="1200" alt="Dashboard" src="PASTE_LINK_2_HERE" />
+<img width="2537" height="1383" alt="Image" src="https://github.com/user-attachments/assets/a1438e04-96ab-4fe9-badb-cb4ad6329aab" />
+<img width="2537" height="1383" alt="Image" src="https://github.com/user-attachments/assets/3b1bdfd1-f4d9-4051-8049-79bcc5c76181" />
 
 ### Network Traffic Analyzer
-<img width="1200" alt="PCAP" src="PASTE_LINK_3_HERE" />
+<img width="2545" height="1396" alt="Image" src="https://github.com/user-attachments/assets/6c6a9113-aa23-43e5-9719-33f7b9472386" />
+<img width="2545" height="1396" alt="Image" src="https://github.com/user-attachments/assets/f884488b-0763-4ca6-a19e-970d952395d9" />
+<img width="2545" height="1396" alt="Image" src="https://github.com/user-attachments/assets/96d87648-c3b9-4881-926f-0fd7e49b95b8" />
 
 ## 📌 Features
 - 📄 Log File Analyzer — Detects brute force, SQL injection, directory traversal, suspicious logins
